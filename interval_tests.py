@@ -13,7 +13,7 @@ print("Trying to set the min of {} to 10, the result is : ".format(test))
 test.min = 10
 print(test)
 print("Trying to set the min of {} to 1, the result is :".format(test))
-test.min = 1
+test.oak = 1
 print(test)
 
 print(sum == done)
