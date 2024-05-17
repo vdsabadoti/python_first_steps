@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="4790bb55-22fd-40dd-b41f-a81c427154a9" name="Changes" comment="Python first steps">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interval_tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/interval_tests.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +22,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;vdsabadoti&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/vdsabadoti/python_first_steps.git&quot;,
+    &quot;accountId&quot;: &quot;7b7cd2ca-352e-4b97-b003-37a5f0b1e8b0&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -36,6 +47,7 @@
   "keyToString": {
     "Python.01_HelloWorld.executor": "Run",
     "Python.01_hello_world.executor": "Run",
+    "Python.AspirateurRobot.executor": "Run",
     "Python.Interval.executor": "Run",
     "Python.M04_D01 - Script.executor": "Run",
     "Python.caipi.executor": "Run",
@@ -47,6 +59,7 @@
     "Python.mini_bataille_naval.executor": "Run",
     "Python.mx_tpx.executor": "Run",
     "Python.study_list.executor": "Run",
+    "Python.test.executor": "Run",
     "Python.test_try_catch.executor": "Run",
     "Python.tp02.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -86,7 +99,8 @@
       <workItem from="1715670136799" duration="18822000" />
       <workItem from="1715698293441" duration="320000" />
       <workItem from="1715756720077" duration="15108000" />
-      <workItem from="1715843088590" duration="21950000" />
+      <workItem from="1715843088590" duration="22183000" />
+      <workItem from="1715929454486" duration="10249000" />
     </task>
     <task id="LOCAL-00001" summary="Python first steps">
       <option name="closed" value="true" />
@@ -96,7 +110,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715867032014</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Python first steps">
+      <option name="closed" value="true" />
+      <created>1715871190178</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1715871190178</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -108,14 +130,16 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/pythonProject$Interval.coverage" NAME="Interval Coverage Results" MODIFIED="1715865231260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/pythonProject$m03_tp02.coverage" NAME="m03_tp02 Coverage Results" MODIFIED="1715685467733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject$caipi.coverage" NAME="caipi Coverage Results" MODIFIED="1715847183972" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$m03_tp02.coverage" NAME="m03_tp02 Coverage Results" MODIFIED="1715685467733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject$01_HelloWorld.coverage" NAME="01_HelloWorld Coverage Results" MODIFIED="1715592304147" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject$01_hello_world.coverage" NAME="01_hello_world Coverage Results" MODIFIED="1715604632365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject$test_try_catch.coverage" NAME="test_try_catch Coverage Results" MODIFIED="1715869531520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject$m03_tp01.coverage" NAME="m03_tp01 Coverage Results" MODIFIED="1715681697952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject$tp02.coverage" NAME="tp02 Coverage Results" MODIFIED="1715611456268" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject$mini_bataille_naval.coverage" NAME="mini_bataille_naval Coverage Results" MODIFIED="1715854518586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$AspirateurRobot.coverage" NAME="AspirateurRobot Coverage Results" MODIFIED="1715936129091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modele" />
+    <SUITE FILE_PATH="coverage/pythonProject$test.coverage" NAME="test Coverage Results" MODIFIED="1715937304700" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modele" />
     <SUITE FILE_PATH="coverage/pythonProject$m03_tp03.coverage" NAME="m03_tp03 Coverage Results" MODIFIED="1715695608784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject$cryptage.coverage" NAME="cryptage Coverage Results" MODIFIED="1715845463491" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject$M04_D01___Script.coverage" NAME="M04_D01 - Script Coverage Results" MODIFIED="1715698544070" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
